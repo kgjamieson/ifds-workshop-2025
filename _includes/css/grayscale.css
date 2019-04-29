@@ -138,12 +138,14 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(img/rainier.jpg) no-repeat center center scroll;
+    background: url(img/seattle.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    /* Image is public domain, taken from:
+       https://pixabay.com/photos/seattle-city-urban-cityscape-870282/ */
 }
 
 .intro .intro-body {
@@ -257,14 +259,14 @@ a:focus {
     height: 700px;
     padding-top: 300px;
     padding: 300px 0;
-    background: url(img/quad.jpg) no-repeat center center scroll;
+    background: url(img/rainier_vista.jpg) no-repeat center center scroll;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    /* Image is public domain, obtained from this album:
-       https://www.flickr.com/photos/135553449@N08/albums/72157678763283304 */
+    /* Image taken from the UW Visual Asset Collection:
+       https://uwphotos.smugmug.com/ */
 }
 
 .contact-section {
@@ -272,14 +274,14 @@ a:focus {
     height: 700px;
     padding-top: 300px;
     padding: 300px 0;
-    background: url(img/library.jpg) no-repeat center center scroll;
+    background: url(img/cherry.jpg) no-repeat center center scroll;
 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    /* Image is public domain, obtained from this album:
-       https://www.flickr.com/photos/135553449@N08/albums/72157678763283304 */
+    /* Image taken from the UW Visual Asset Collection:
+       https://uwphotos.smugmug.com/ */
 }
 
 .location-section {
@@ -287,7 +289,7 @@ a:focus {
     height: auto;
     padding-top: 300px;
     padding: 300px 0;
-    background: url(img/gates2.jpg) no-repeat center center scroll;
+    background: url(img/gates.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
