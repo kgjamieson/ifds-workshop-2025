@@ -1,8 +1,8 @@
 # Site settings
-title: "ADSI Summer Workshop: Algorithmic Foundations of Learning and Control"
-email: ajwagen@uw.edu
-url:  "https://ajwagen.github.io/"
-description: "A workshop on learning and control at the University of Washington"
+title: "IFDS Workshop: Distributionally Robust Learning and Control"
+email: pillutla@uw.edu
+url:  "https://krishnap25.github.io/"
+description: "A workshop on distributionally robust learning and control at the University of Washington"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
