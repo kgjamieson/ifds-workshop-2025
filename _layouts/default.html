@@ -2,6 +2,30 @@
 <html>
     {% include head.html %}
     <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+        <div style="
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #ffeeba;
+  color: #856404;
+  text-align: center;
+  padding: 12px;
+  font-size: 1.1em;
+  font-weight: bold;
+  border-bottom: 2px solid #f5c6cb;
+  z-index: 1000;
+">
+  This workshop has passed. You can find the recorded talks at 
+  <a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXhKvy693qRaZmDACFrN2B2u" 
+     style="color: #004085; text-decoration: underline;">
+    this YouTube playlist
+  </a>.
+</div>
+
+<!-- Add this so the banner doesn't overlap your content -->
+<div style="height: 60px;"></div>
+        
     {% include nav.html %}
     {% include header.html %}
     {% include dates.html %}
